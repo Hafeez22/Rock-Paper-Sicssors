@@ -1,0 +1,20 @@
+.container-2{
+    align-items: center;
+    width: 75%;
+    margin: auto ;
+    border: black solid 1px;
+}
+.htag{
+    border: black 1px solid;
+    text-align: center;
+}
+
+.flex-items{
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-items img:hover{
+    box-shadow: 0px 10px 50px rgba(37, 50, 233, 17);
+}
+
